@@ -14,6 +14,7 @@ export default class Header extends Component {
   render() {
     return (
       <header>
+        <p>I'm the header</p>
         <nav className="ib-nav">
           Nav
         </nav>
