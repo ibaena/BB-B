@@ -14,9 +14,8 @@ export default class Header extends Component {
   render() {
     return (
       <header>
-        <p>I'm the header</p>
+        <div className="activate-nav">MENU</div>
         <nav className="ib-nav">
-          Nav
         </nav>
       </header>
     )

@@ -1,0 +1,19 @@
+/***********************
+       Nav Styles
+***********************/
+
+
+.activate-nav {
+  position: fixed;
+  top: 1em;
+  right: 1em;
+  border:1px solid white;
+  z-index: 9999;
+  color:white;
+  height: 60px;
+  width: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor:pointer;
+}
